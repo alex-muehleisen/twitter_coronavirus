@@ -4,9 +4,9 @@ Scanning all geotagged tweets sent in 2020 to monitor for the spread of the coro
 
 **Key Concepts:**
 
-1. work with large scale datasets
-1. work with multilingual text
-1. use the MapReduce divide-and-conquer paradigm to create parallel code
+1. Working with large scale datasets
+1. Working with multilingual text
+1. Using the MapReduce divide-and-conquer paradigm to create parallel code
 
 ## Background
 
